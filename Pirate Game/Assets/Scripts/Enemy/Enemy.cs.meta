@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 808b790338c79544d840d057a9da04f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyHealth: {instanceID: 0}
+  - enemyRenderer: {instanceID: 0}
+  - cannonball: {fileID: 5631966457637655961, guid: 615f7a752a7d73d4eaa09e2dbdad0b4f, type: 3}
+  - lowHealth: {instanceID: 0}
+  - mediumHealth: {instanceID: 0}
+  - fullHealth: {instanceID: 0}
+  - Dead: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
